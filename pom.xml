@@ -49,7 +49,7 @@
 		<url>https://github.com/nhojpatrick/nhojpatrick-sortpom-sortorderfile/tree/master</url>
 	</scm>
 	<!--organization / -->
-	<!--build /-->
+	<!--build / -->
 	<build>
 		<pluginManagement>
 			<plugins>
