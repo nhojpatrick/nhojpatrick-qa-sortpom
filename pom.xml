@@ -16,12 +16,12 @@
 	<!--description / -->
 	<description>The Sort Order File project</description>
 	<!--url / -->
-	<url>https://github.com/nhojpatrick/nhojpatrick-sortpom-sortorderfile</url>
+	<url>https://github.com/nhojpatrick/nhojpatrick-qa-sortpom</url>
 	<!--prerequisites / -->
 	<!--issueManagement / -->
 	<issueManagement>
 		<system>GITHUB</system>
-		<url>https://github.com/nhojpatrick/nhojpatrick-sortpom-sortorderfile/issues</url>
+		<url>https://github.com/nhojpatrick/nhojpatrick-qa-sortpom/issues</url>
 	</issueManagement>
 	<!--ciManagement / -->
 	<!--inceptionYear / -->
@@ -44,9 +44,9 @@
 	</licenses>
 	<!--scm / -->
 	<scm>
-		<connection>scm:git:git://github.com/nhojpatrick/nhojpatrick-sortpom-sortorderfile.git</connection>
-		<developerConnection>scm:git:ssh://github.com:nhojpatrick/nhojpatrick-sortpom-sortorderfile.git</developerConnection>
-		<url>https://github.com/nhojpatrick/nhojpatrick-sortpom-sortorderfile/tree/main</url>
+		<connection>scm:git:git://github.com/nhojpatrick/nhojpatrick-qa-sortpom.git</connection>
+		<developerConnection>scm:git:ssh://github.com:nhojpatrick/nhojpatrick-qa-sortpom.git</developerConnection>
+		<url>https://github.com/nhojpatrick/nhojpatrick-qa-sortpom/tree/main</url>
 	</scm>
 	<!--organization / -->
 	<!--build / -->
