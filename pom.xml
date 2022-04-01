@@ -264,7 +264,7 @@
 			<resource>
 				<directory>src/main/resources</directory>
 				<excludes>
-					<exclude>com/github/nhojpatrick/qa/versions/rules**</exclude>
+					<exclude>com/github/nhojpatrick/qa/versions/ruleset**</exclude>
 				</excludes>
 			</resource>
 		</resources>
@@ -368,7 +368,8 @@
 				</plugins>
 			</build>
 			<properties>
-				<maven.version.rules>file:///${session.executionRootDirectory}/src/main/resources/com/github/nhojpatrick/qa/versions/rules/rules.xml</maven.version.rules>
+				<!--suppress UnresolvedMavenProperty -->
+				<maven.version.rules>file:///${session.executionRootDirectory}/src/main/resources/com/github/nhojpatrick/qa/versions/ruleset/rules.xml</maven.version.rules>
 				<sort.skip>true</sort.skip>
 			</properties>
 		</profile>
