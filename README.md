@@ -5,3 +5,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/nhojpatrick/nhojpatrick-qa-sortpom/badge.svg?branch=develop)](https://coveralls.io/github/nhojpatrick/nhojpatrick-qa-sortpom?branch=develop)
 [![Known Vulnerabilities](https://snyk.io/test/github/nhojpatrick/nhojpatrick-qa-sortpom/develop/badge.svg)](https://snyk.io/test/github/nhojpatrick/nhojpatrick-qa-sortpom/develop)
 [![Maintainability](https://api.codeclimate.com/v1/badges/b66727c363f4a03f4f57/maintainability)](https://codeclimate.com/github/nhojpatrick/nhojpatrick-qa-sortpom/maintainability)
+
+## Releasing
+See [RELEASE.md](./RELEASE.md).
